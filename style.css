@@ -35,3 +35,9 @@ main {
     color: #3a5a40;
     background-color: #ffffff;
 }
+
+@media (max-width: 800px) {
+    #reset {
+        font-size: 1.25rem;
+    }
+}
